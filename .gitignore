@@ -1,0 +1,11 @@
+lottery_venv
+.env
+*.pyc
+**/__pycache__/
+generate_keys.py
+private.pem
+public.pem
+
+__pycache__/
+
+
